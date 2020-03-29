@@ -3,6 +3,7 @@ First new repository
 
 Hi World!
 
-Chester here, I mouse with my left hand. I'm right handed.
-A giant leap for me but a small step for mankind.
+Chester here, beeing righthanded, I learned to mouse with my left hand.
+Yet a small step for manki
+nd, a giant leap for me.
 
